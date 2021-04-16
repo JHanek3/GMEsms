@@ -1,1 +1,1 @@
-API call to IEX cloud for current GME price. If there's a 5% jump between current call and call from 5 minutes ago, a text message is sent to my phone.W
+API call to IEX cloud for current GME price. If there's a 5% jump between current call and call from 5 minutes ago, a text message is sent to my phone.
